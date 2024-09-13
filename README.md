@@ -1,9 +1,9 @@
 # Microservices Architecture
  Microservices Architecture
-i made this project to  demonstrates a basic microservices architecture implemented in Go.
-In Futur i will be adding more detailes implrmrntions and add
+I made this project to  demonstrates a basic microservices architecture implemented in Go.
+In Futur I will be adding more detailes implrmrntions and add
 more service .
-feel free to contact me @ ahmedsedeeek@gmail.com
+pls feel free to contact me @ ahmedsedeeek@gmail.com
 
 
 ## Components
@@ -11,7 +11,7 @@ feel free to contact me @ ahmedsedeeek@gmail.com
 - API Gateway
 - Service Discovery
 - Load Balancer
-- Message Broker (placeholder)
+- Message Broker (for any Impl in futur)
 - Microservices
 
 
